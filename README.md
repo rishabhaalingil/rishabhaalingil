@@ -1,12 +1,14 @@
 # Hi there💫,I'm Rishabh Alinkeel:
-I’m a data enthusiast with a background in Electrical Engineering, currently exploring opportunities to apply my analytical skills in data analysis. As an electrical engineer, I have experience in analyzing and optimizing system performance and am eager to apply these skills to help businesses make data-driven decisions. I am passionate about uncovering insights from data to help businesses make informed decisions and drive growth. Passionate about learning new tools and technologies, I am excited to apply my skills in data analysis to help businesses achieve excellence.
+As an **Electrical Engineer** with hands-on experience in **system performance analysis and optimization**, I bring a strong analytical mindset and problem-solving skills to the table. Over the years, I have honed my ability to evaluate and **enhance system efficiency**, identifying key areas for improvement and implementing solutions that boost performance and reliability.Driven by a **passion for data** and continuous learning, I am now channeling my technical background into data analysis, where I can leverage my skills to help businesses uncover valuable insights and make informed, data-driven decisions. With a strong foundation in system optimization and proficiencies in tools like PowerBi,SQL,Excel and Python,I am eager to apply my **analytical expertise** to solve business challenges, drive operational improvements, and contribute to the overall growth and success of organizations.
 
 [![](https://visitcount.itsvg.in/api?id=rishabhaalingil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# About Me
+## About Me
+- Data enthusiast and an aspiring data analyst
+- Bachelor's in Electrical Engineering
+- Currently working at MRF Limited as an electrical engineer has deepened my expertise in monitoring complex systems, diagnosing issues, and optimizing operations to ensure peak functionality.My strong foundation in system optimization complements my ability to help businesses unlock valuable data insights, solve complex problems, and improve overall performance.
 
-
-# 💻 Tools and Languages:
+## 💻 Tools and Languages:
 -  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 -  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   
 -  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   
@@ -17,7 +19,7 @@ I’m a data enthusiast with a background in Electrical Engineering, currently e
 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-alinkeel-678b23287/)
 -   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aalingilrishabh@gmail.com)
 -   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rishabhalinkeel)
