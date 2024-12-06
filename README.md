@@ -1,5 +1,5 @@
 # Hi there💫,I'm Rishabh Alinkeel:
-As an **Electrical Engineer** with hands-on experience in **system performance analysis and optimization**, I bring a strong analytical mindset and problem-solving skills to the table. Over the years, I have honed my ability to evaluate and **enhance system efficiency**, identifying key areas for improvement and implementing solutions that boost performance and reliability.
+An **Electrical Engineer** with hands-on experience in **system performance analysis and optimization**, I bring a strong analytical mindset and problem-solving skills to the table. Over the years, I have honed my ability to evaluate and **enhance system efficiency**, identifying key areas for improvement and implementing solutions that boost performance and reliability.
 
 Driven by a **passion for data** and continuous learning, I am now channeling my technical background into data analysis, where I can leverage my skills to help businesses uncover valuable insights and make informed, data-driven decisions. With a strong foundation in system optimization and proficiencies in tools like PowerBi,SQL,Excel and Python,I am eager to apply my **analytical expertise** to solve business challenges, drive operational improvements, and contribute to the overall growth and success of organizations.
 
