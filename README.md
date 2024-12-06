@@ -21,7 +21,9 @@ Driven by a **passion for data** and continuous learning, I am now channeling my
 
 ## Projects
  - [Business Insights 360](https://github.com/rishabhaalingil/Business_Insights_360) : An analysis project which involved using Power BI to transform data for AtliQ Technologies, streamlining reporting across finance, sales, marketing, and supply chain, and providing real-time, actionable insights to improve decision-making and optimize business performance.
+ 
  - [AtliQ Financial and Sales Report](https://github.com/rishabhaalingil/Excel_Atliq_Report) : This project involved transforming raw sales and finance data into actionable insights for AtliQ Hardware using Power Query, Power Pivot, and DAX, enhancing decision-making through comprehensive, interactive reports.
+
  - [Credit Card transaction and customer Report](https://github.com/rishabhaalingil/Credit-card-transaction-analysis) : Created a comprehensive credit card dashboard in Power BI, integrating transaction and customer data to deliver real-time insights on revenue, spending patterns, and key performance metrics for strategic analysis.
 
 Feel free to checkout the rest of the projects in my [repositories](https://github.com/rishabhaalingil?tab=repositories)
